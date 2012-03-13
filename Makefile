@@ -59,3 +59,6 @@ watch:
 
 
 .PHONY: docs watch gh-pages
+
+clean:
+	rm -r bootstrap
